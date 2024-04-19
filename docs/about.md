@@ -5,14 +5,12 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
-
-[GitHub](https://github.com/coffeebank/moonrise)
+NapPixel Minecraft Server is truly free to play server with no P2W
 
 
 # Terms of Use
 
-Moonrise MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
+[Template courtesy by Moonerise MC -- MIT license](https://github.com/coffeebank/moonrise).
 
 
 # Privacy Policy
