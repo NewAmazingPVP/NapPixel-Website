@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://ko-fi.com/
+tourl: https://shop.nappixel.tk/
 ---
